@@ -16,6 +16,9 @@ h6 {
   font-weight: bold;
   font-family: var(--heading-font-family);
 }
+body {
+  width: 1600px;
+}
 
 .container-header {
   background-color: var(--main-color);
@@ -109,7 +112,7 @@ section.general-section button {
 }
 
 .description-section li {
-  padding: 30px;
+  padding: 60px;
 }
 .team-section img {
   width: 310px;
